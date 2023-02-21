@@ -9,4 +9,4 @@ For now, i know:
 1. JavaScript
 1. NODEJS
 1. Repl.it
-1.CHALK
+1. CHALK
